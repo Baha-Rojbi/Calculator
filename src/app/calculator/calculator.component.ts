@@ -19,5 +19,6 @@ evaluateResult(){
 }
 reset(){
   this.stringToEvaluate="";
+  
 }
 }
